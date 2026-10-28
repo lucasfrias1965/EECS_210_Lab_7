@@ -19,4 +19,4 @@ IRB being the interactive shell for Ruby. To run a Ruby program (mine) use
 ```
 ruby main.rb
 ```
-and the program will execute
+and the program will execute. It really should be as easy as that, but let me know if there's anything else I can do.
